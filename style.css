@@ -1,0 +1,98 @@
+.main{
+    background-color:rgb(241, 236, 236);
+    height:500px;
+    width:1000px;
+    margin-left:80px;
+    padding-left:0px;
+    padding-top:0px;
+    border:2px solid rgb(212, 210, 210);
+}
+.ptop1{color:white;
+    font-size:20px;
+    font-weight:bold;
+    
+
+}
+.face{
+    font-size:25px;
+    padding-left:340px;
+    color:white;
+}
+.book{
+    padding-left:360px;
+    font-size:small;
+    color:white;
+}
+
+.part1{ background-color: rgb(88, 88, 231);
+}
+
+.square{
+    padding-top:0px;
+    padding-left: 15px;
+}
+.ptop2{
+    margin-left: 560px;
+}
+.square{
+    width:300px;
+    background-color: #ffffff;
+    margin-left: 350px;
+    height:240px;
+    margin-top: -40px;
+}
+.square form input[type=text]{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.square form input[type=email]{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.square form input[type=pasword]{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.square .form input[type=sign-up]{
+    color:white;
+    background-color: rgb(27, 27, 219);
+    border:none;
+}
+button[type=button]{
+    background-color: rgb(58, 58, 221);
+    width: 40px;
+    color:white;
+    border:none;
+}
+button[type=button1]{
+    background-color:rgb(58,58,221) ;
+    color:white;
+    width:180px;
+    border:none;
+}
+.form .sign input[type=text]{
+    border:none;
+    margin-top: 30px;
+}
+.ptop2 .form1{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.ptop2 .form1 input[type=email]{
+    border:none;
+    
+}
+.ptop2.form1 input[type=pasword]{
+    border:none;
+   
+}
+
+
+
+    
+
+
+
